@@ -1,0 +1,59 @@
+1. Unraveling the Mysteries: A Literature Review on the Analysis and Interpretations of the Indus Valley Script
+   https://ieeexplore.ieee.org/abstract/document/10866881/
+
+2. The Indus Valley script: a new interpretation
+   https://www.academia.edu/download/35322752/Indus_Valley_Script_Semiology_Final.pdf
+
+3. The origin, context and function of the Indus script: Recent insights from Harappa
+   https://www.harappa.com/sites/default/files/pdf/Kenoyer2006_The%20Origin,%20Context%20and%20Function%20of%20the%20Indus%20Sc.pdf
+
+4. The Soviet decipherment of the Indus Valley script: Translation and critique
+   https://books.google.com/books?hl=en&lr=&id=2VUiAAAAQBAJ&oi=fnd&pg=PA5&dq=Indus+Valley+Script&ots=WROEVq5KRA&sig=ALHOvtdqQVG29kbd9kkubztv2dw
+
+5. A method of identifying allographs in undeciphered scripts and its application to the Indus Valley Script
+   https://www.nature.com/articles/s41599-021-00713-0
+
+6. The present state of research on the Indus Valley Civilization
+   https://scholar.archive.org/work/kd4pne7kcrh4bbmquol2662hye/access/wayback/https://www.jstage.jst.go.jp/article/jorient1962/16/1/16_1_161/_pdf
+
+7. The script of the Indus Valley civilization
+   https://www.jstor.org/stable/24968852
+
+8. Indus Valley Civilization
+   https://link.springer.com/content/pdf/10.1007/978-94-024-1188-1_251.pdf
+
+9. The Indus Valley Civilization
+   https://www.jstor.org/stable/492135
+
+10. Indus Valley civilization: enigmatic, exemplary, and undeciphered
+    https://dc.cod.edu/cgi/viewcontent.cgi?article=1315&context=essai
+
+11. Analysis of segmentation methods for Brahmi script
+  https://www.academia.edu/download/74675867/e8f058eb4464be451822914b0039968f1c26.pdf
+
+12. Machine recognition of Brahmi script
+  https://ieeexplore.ieee.org/abstract/document/6313155/
+
+13. Brahmi script recognition system using deep learning techniques
+  https://ieeexplore.ieee.org/abstract/document/9544978/
+
+14. Optical character recognition for Brahmi script using geometric method
+  https://jtec.utem.edu.my/jtec/article/view/3197
+
+15. Brahmi Scripts Orthographic Units and Reading Acquisition
+  https://link.springer.com/chapter/10.1007/978-94-011-1162-1_17
+
+16. A Phoenician inscription in Ugaritic script
+  https://janes.scholasticahq.com/article/2245-a-phoenician-inscription-in-ugaritic-script/attachment/6186.pdf
+
+17. The Phoenician script of the Tel Zayit abecedary and putative evidence for Israelite literacy
+  http://www.rollstonepigraphy.com/wp-content/uploads/2010/01/Rollston-op-TelZayit.pdf
+
+18. Inscriptions in Hebrew, Aramaic and Phoenician Script
+  https://publications.iaa.org.il/cgi/viewcontent.cgi?article=1031&context=iaareports#page=44
+
+19. On the Origin of the Phoenicians
+  https://archiv.ub.uni-heidelberg.de/propylaeumdok/1142/1/Roellig_Origin_of_the_Phoenocians_1983.pdf
+  
+20. The Antiquity of Greek Alphabet and Early Phoenician Scripts
+  https://books.google.com/books?hl=en&lr=&id=ysr7EAAAQBAJ&oi=fnd&pg=PP3&dq=phoenician+script&ots=LpsvLaNZ0_&sig=Lg-8x0bGTLtQqSG_Y7gef9PyO4A
